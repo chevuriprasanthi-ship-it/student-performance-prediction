@@ -1,5 +1,4 @@
-# student-performance-prediction
-## Sample Code
+
 
 ```python
 import pandas as pd
